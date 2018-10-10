@@ -1,0 +1,41 @@
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos1\Biblioteca\bin\Debug\Biblioteca.dll
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos1\Biblioteca\bin\Debug\Biblioteca.pdb
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos1\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos1\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos1\Biblioteca\obj\Debug\Biblioteca.dll
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos1\Biblioteca\obj\Debug\Biblioteca.pdb
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos2\Biblioteca\bin\Debug\Biblioteca.dll
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos2\Biblioteca\bin\Debug\Biblioteca.pdb
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos2\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos2\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos2\Biblioteca\obj\Debug\Biblioteca.dll
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos2\Biblioteca\obj\Debug\Biblioteca.pdb
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos2\Biblioteca\bin\Debug\Biblioteca.dll
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos2\Biblioteca\bin\Debug\Biblioteca.pdb
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos2\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos2\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos2\Biblioteca\obj\Debug\Biblioteca.dll
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos2\Biblioteca\obj\Debug\Biblioteca.pdb
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos1.2\Biblioteca\bin\Debug\Biblioteca.dll
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos1.2\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos1.2\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos1.2\Biblioteca\obj\Debug\Biblioteca.dll
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos1.2\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\eduardo\LP1\CadJogos3\Biblioteca\bin\Debug\Biblioteca.dll
+C:\eduardo\LP1\CadJogos3\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\eduardo\LP1\CadJogos3\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\eduardo\LP1\CadJogos3\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\eduardo\LP1\CadJogos3\Biblioteca\obj\Debug\Biblioteca.dll
+C:\eduardo\LP1\CadJogos3\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\eduardo\LP1\CadJogos4\Biblioteca\bin\Debug\Biblioteca.dll
+C:\eduardo\LP1\CadJogos4\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\eduardo\LP1\CadJogos4\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\eduardo\LP1\CadJogos4\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\eduardo\LP1\CadJogos4\Biblioteca\obj\Debug\Biblioteca.dll
+C:\eduardo\LP1\CadJogos4\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\082160036\Desktop\Logica Programação 1\CadJogos4\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\082160036\Desktop\Logica Programação 1\CadJogos4\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\082160036\Desktop\Logica Programação 1\CadJogos4\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\082160036\Desktop\Logica Programação 1\CadJogos4\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\082160036\Desktop\Logica Programação 1\CadJogos4\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\082160036\Desktop\Logica Programação 1\CadJogos4\Biblioteca\obj\Debug\Biblioteca.pdb

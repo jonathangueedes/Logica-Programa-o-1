@@ -1,0 +1,75 @@
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos1\CadJogos1\bin\Debug\CadJogos1.exe.config
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos1\CadJogos1\bin\Debug\CadJogos1.exe
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos1\CadJogos1\bin\Debug\CadJogos1.pdb
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos1\CadJogos1\obj\Debug\CadJogos1.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos1\CadJogos1\obj\Debug\CadJogos1.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos1\CadJogos1\obj\Debug\CadJogos1.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos1\CadJogos1\obj\Debug\CadJogos1.csproj.CoreCompileInputs.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos1\CadJogos1\obj\Debug\CadJogos1.exe
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos1\CadJogos1\obj\Debug\CadJogos1.pdb
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos1\CadJogos1\bin\Debug\Biblioteca.dll
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos1\CadJogos1\bin\Debug\Biblioteca.pdb
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos1\CadJogos1\obj\Debug\CadJogos1.Form1.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos2\CadJogos1\bin\Debug\CadJogos1.exe.config
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos2\CadJogos1\bin\Debug\CadJogos1.exe
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos2\CadJogos1\bin\Debug\CadJogos1.pdb
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos2\CadJogos1\bin\Debug\Biblioteca.dll
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos2\CadJogos1\bin\Debug\Biblioteca.pdb
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos2\CadJogos1\obj\Debug\CadJogos1.csprojResolveAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos2\CadJogos1\obj\Debug\CadJogos1.Form1.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos2\CadJogos1\obj\Debug\CadJogos1.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos2\CadJogos1\obj\Debug\CadJogos1.csproj.GenerateResource.Cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos2\CadJogos1\obj\Debug\CadJogos1.csproj.CoreCompileInputs.cache
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos2\CadJogos1\obj\Debug\CadJogos1.exe
+W:\Professores\Prof. Eduardo\2018-S1\EC-5 - LP I\CadJogos2\CadJogos1\obj\Debug\CadJogos1.pdb
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos2\CadJogos1\bin\Debug\CadJogos1.exe.config
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos2\CadJogos1\bin\Debug\CadJogos1.exe
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos2\CadJogos1\bin\Debug\CadJogos1.pdb
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos2\CadJogos1\bin\Debug\Biblioteca.dll
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos2\CadJogos1\bin\Debug\Biblioteca.pdb
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos2\CadJogos1\obj\Debug\CadJogos1.csprojAssemblyReference.cache
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos2\CadJogos1\obj\Debug\CadJogos1.Form1.resources
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos2\CadJogos1\obj\Debug\CadJogos1.Properties.Resources.resources
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos2\CadJogos1\obj\Debug\CadJogos1.csproj.GenerateResource.cache
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos2\CadJogos1\obj\Debug\CadJogos1.csproj.CoreCompileInputs.cache
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos2\CadJogos1\obj\Debug\CadJogos1.csproj.CopyComplete
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos2\CadJogos1\obj\Debug\CadJogos1.exe
+W:\Professores\Prof. Eduardo\2018-S2\EC-5 - LP I\CadJogos2\CadJogos1\obj\Debug\CadJogos1.pdb
+C:\eduardo\LP1\CadJogos3\CadJogos1\bin\Debug\CadJogos1.exe.config
+C:\eduardo\LP1\CadJogos3\CadJogos1\bin\Debug\CadJogos1.exe
+C:\eduardo\LP1\CadJogos3\CadJogos1\bin\Debug\CadJogos1.pdb
+C:\eduardo\LP1\CadJogos3\CadJogos1\bin\Debug\Biblioteca.dll
+C:\eduardo\LP1\CadJogos3\CadJogos1\bin\Debug\Biblioteca.pdb
+C:\eduardo\LP1\CadJogos3\CadJogos1\obj\Debug\CadJogos1.csprojAssemblyReference.cache
+C:\eduardo\LP1\CadJogos3\CadJogos1\obj\Debug\CadJogos1.Form1.resources
+C:\eduardo\LP1\CadJogos3\CadJogos1\obj\Debug\CadJogos1.Properties.Resources.resources
+C:\eduardo\LP1\CadJogos3\CadJogos1\obj\Debug\CadJogos1.csproj.GenerateResource.cache
+C:\eduardo\LP1\CadJogos3\CadJogos1\obj\Debug\CadJogos1.csproj.CoreCompileInputs.cache
+C:\eduardo\LP1\CadJogos3\CadJogos1\obj\Debug\CadJogos1.csproj.CopyComplete
+C:\eduardo\LP1\CadJogos3\CadJogos1\obj\Debug\CadJogos1.exe
+C:\eduardo\LP1\CadJogos3\CadJogos1\obj\Debug\CadJogos1.pdb
+C:\eduardo\LP1\CadJogos4\CadJogos1\bin\Debug\CadJogos1.exe.config
+C:\eduardo\LP1\CadJogos4\CadJogos1\bin\Debug\CadJogos1.exe
+C:\eduardo\LP1\CadJogos4\CadJogos1\bin\Debug\CadJogos1.pdb
+C:\eduardo\LP1\CadJogos4\CadJogos1\bin\Debug\Biblioteca.dll
+C:\eduardo\LP1\CadJogos4\CadJogos1\bin\Debug\Biblioteca.pdb
+C:\eduardo\LP1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.csprojAssemblyReference.cache
+C:\eduardo\LP1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.Form1.resources
+C:\eduardo\LP1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.Properties.Resources.resources
+C:\eduardo\LP1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.csproj.GenerateResource.cache
+C:\eduardo\LP1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.csproj.CoreCompileInputs.cache
+C:\eduardo\LP1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.csproj.CopyComplete
+C:\eduardo\LP1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.exe
+C:\eduardo\LP1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.pdb
+C:\Users\082160036\Desktop\Logica Programação 1\CadJogos4\CadJogos1\bin\Debug\CadJogos1.exe.config
+C:\Users\082160036\Desktop\Logica Programação 1\CadJogos4\CadJogos1\bin\Debug\CadJogos1.exe
+C:\Users\082160036\Desktop\Logica Programação 1\CadJogos4\CadJogos1\bin\Debug\CadJogos1.pdb
+C:\Users\082160036\Desktop\Logica Programação 1\CadJogos4\CadJogos1\bin\Debug\Biblioteca.dll
+C:\Users\082160036\Desktop\Logica Programação 1\CadJogos4\CadJogos1\bin\Debug\Biblioteca.pdb
+C:\Users\082160036\Desktop\Logica Programação 1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.csprojResolveAssemblyReference.cache
+C:\Users\082160036\Desktop\Logica Programação 1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.Form1.resources
+C:\Users\082160036\Desktop\Logica Programação 1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.Properties.Resources.resources
+C:\Users\082160036\Desktop\Logica Programação 1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.csproj.GenerateResource.Cache
+C:\Users\082160036\Desktop\Logica Programação 1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.csproj.CoreCompileInputs.cache
+C:\Users\082160036\Desktop\Logica Programação 1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.exe
+C:\Users\082160036\Desktop\Logica Programação 1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.pdb
