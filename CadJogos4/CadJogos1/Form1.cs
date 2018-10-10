@@ -27,7 +27,7 @@ namespace CadJogos1
                 j.Id = Convert.ToInt32(txtId.Text);
                 j.Descricao = txtDescricao.Text;
                 j.valor = Convert.ToDouble(txtPreco.Text);
-                j.CategoriaId = Convert.ToInt32(txtCategoria.Text);
+                j.CategoriaId = Convert.ToInt32(cbcategorias.SelectedValue);
                 j.Data = Convert.ToDateTime(txtData.Text);
 
                 JogoDAO.Incluir(j);
@@ -46,7 +46,7 @@ namespace CadJogos1
                 j.Id = Convert.ToInt32(txtId.Text);
                 j.Descricao = txtDescricao.Text;
                 j.valor = Convert.ToDouble(txtPreco.Text);
-                j.CategoriaId = Convert.ToInt32(txtCategoria.Text);
+                j.CategoriaId = Convert.ToInt32(cbcategorias.SelectedValue);
                 j.Data = Convert.ToDateTime(txtData.Text);
 
                 JogoDAO.Alterar(j);
@@ -81,7 +81,7 @@ namespace CadJogos1
             {
                 txtId.Text = j.Id.ToString();
                 txtDescricao.Text = j.Descricao;
-                txtCategoria.Text = j.CategoriaId.ToString();
+                cbcategorias.SelectedValue = j.CategoriaId;
                 txtData.Text = j.Data.ToShortDateString();
                 txtPreco.Text = j.valor.ToString();
 
@@ -109,6 +109,18 @@ namespace CadJogos1
         private void Form1_Load(object sender, EventArgs e)
         {
             btnPrimeiro.PerformClick();
+
+            cbcategorias.DataSource = categoriasDAO.ListaCategorias();
+            cbcategorias.DisplayMember = "descricao";
+            cbcategorias.ValueMember = "id";
+
+
+            
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

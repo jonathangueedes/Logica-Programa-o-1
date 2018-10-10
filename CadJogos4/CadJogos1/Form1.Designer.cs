@@ -30,7 +30,6 @@
         {
             this.btnExcluir = new System.Windows.Forms.Button();
             this.btnAlterar = new System.Windows.Forms.Button();
-            this.txtCategoria = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.txtData = new System.Windows.Forms.MaskedTextBox();
@@ -45,6 +44,7 @@
             this.btnProximo = new System.Windows.Forms.Button();
             this.btnAnterior = new System.Windows.Forms.Button();
             this.btnPrimeiro = new System.Windows.Forms.Button();
+            this.cbcategorias = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // btnExcluir
@@ -67,17 +67,10 @@
             this.btnAlterar.UseVisualStyleBackColor = true;
             this.btnAlterar.Click += new System.EventHandler(this.btnAlterar_Click);
             // 
-            // txtCategoria
-            // 
-            this.txtCategoria.Location = new System.Drawing.Point(513, 37);
-            this.txtCategoria.Name = "txtCategoria";
-            this.txtCategoria.Size = new System.Drawing.Size(54, 20);
-            this.txtCategoria.TabIndex = 23;
-            // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(510, 21);
+            this.label5.Location = new System.Drawing.Point(500, 21);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(52, 13);
             this.label5.TabIndex = 22;
@@ -199,18 +192,27 @@
             this.btnPrimeiro.UseVisualStyleBackColor = true;
             this.btnPrimeiro.Click += new System.EventHandler(this.btnPrimeiro_Click);
             // 
+            // cbcategorias
+            // 
+            this.cbcategorias.FormattingEnabled = true;
+            this.cbcategorias.Location = new System.Drawing.Point(500, 37);
+            this.cbcategorias.Name = "cbcategorias";
+            this.cbcategorias.Size = new System.Drawing.Size(121, 21);
+            this.cbcategorias.TabIndex = 30;
+            this.cbcategorias.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(629, 173);
+            this.Controls.Add(this.cbcategorias);
             this.Controls.Add(this.btnUltimo);
             this.Controls.Add(this.btnProximo);
             this.Controls.Add(this.btnAnterior);
             this.Controls.Add(this.btnPrimeiro);
             this.Controls.Add(this.btnExcluir);
             this.Controls.Add(this.btnAlterar);
-            this.Controls.Add(this.txtCategoria);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.txtData);
@@ -233,7 +235,6 @@
 
         private System.Windows.Forms.Button btnExcluir;
         private System.Windows.Forms.Button btnAlterar;
-        private System.Windows.Forms.TextBox txtCategoria;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.MaskedTextBox txtData;
@@ -248,6 +249,7 @@
         private System.Windows.Forms.Button btnProximo;
         private System.Windows.Forms.Button btnAnterior;
         private System.Windows.Forms.Button btnPrimeiro;
+        private System.Windows.Forms.ComboBox cbcategorias;
     }
 }
 

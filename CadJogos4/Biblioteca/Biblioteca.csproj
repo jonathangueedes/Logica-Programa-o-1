@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DAO\categoriasDAO.cs" />
     <Compile Include="DAO\ConexaoBD.cs" />
     <Compile Include="DAO\JogoDAO.cs" />
     <Compile Include="Metodos.cs" />
