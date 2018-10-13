@@ -73,3 +73,16 @@ C:\Users\082160036\Desktop\Logica Programação 1\CadJogos4\CadJogos1\obj\Debug\
 C:\Users\082160036\Desktop\Logica Programação 1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.csproj.CoreCompileInputs.cache
 C:\Users\082160036\Desktop\Logica Programação 1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.exe
 C:\Users\082160036\Desktop\Logica Programação 1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.pdb
+C:\Users\Jonathan\Documents\GitHub\Logica-Programa-o-1\CadJogos4\CadJogos1\bin\Debug\CadJogos1.exe.config
+C:\Users\Jonathan\Documents\GitHub\Logica-Programa-o-1\CadJogos4\CadJogos1\bin\Debug\CadJogos1.exe
+C:\Users\Jonathan\Documents\GitHub\Logica-Programa-o-1\CadJogos4\CadJogos1\bin\Debug\CadJogos1.pdb
+C:\Users\Jonathan\Documents\GitHub\Logica-Programa-o-1\CadJogos4\CadJogos1\bin\Debug\Biblioteca.dll
+C:\Users\Jonathan\Documents\GitHub\Logica-Programa-o-1\CadJogos4\CadJogos1\bin\Debug\Biblioteca.pdb
+C:\Users\Jonathan\Documents\GitHub\Logica-Programa-o-1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.csprojAssemblyReference.cache
+C:\Users\Jonathan\Documents\GitHub\Logica-Programa-o-1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.Form1.resources
+C:\Users\Jonathan\Documents\GitHub\Logica-Programa-o-1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.Properties.Resources.resources
+C:\Users\Jonathan\Documents\GitHub\Logica-Programa-o-1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.csproj.GenerateResource.cache
+C:\Users\Jonathan\Documents\GitHub\Logica-Programa-o-1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Documents\GitHub\Logica-Programa-o-1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.csproj.CopyComplete
+C:\Users\Jonathan\Documents\GitHub\Logica-Programa-o-1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.exe
+C:\Users\Jonathan\Documents\GitHub\Logica-Programa-o-1\CadJogos4\CadJogos1\obj\Debug\CadJogos1.pdb

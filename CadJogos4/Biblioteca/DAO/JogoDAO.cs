@@ -15,7 +15,7 @@ namespace Biblioteca.DAO
         private static SqlParameter[] CriaParametros(JogoVO j)
         {
             SqlParameter[] parametros = {
-                new SqlParameter("id", j.Id),                
+                //new SqlParameter("id", j.Id),                
                 new SqlParameter("descricao", j.Descricao),
                 new SqlParameter("valor_locacao", j.valor),
                 new SqlParameter("dataCompra", j.Data),
@@ -29,10 +29,10 @@ namespace Biblioteca.DAO
         {
             string sql =
                 @" insert into  jogos                     
-                        (id, descricao, valor_locacao,
+                        (descricao, valor_locacao,
                          data_aquisicao, categoriaId)       
                        values
-                        (@id, @descricao, @valor_locacao,
+                        (@descricao, @valor_locacao,
                          @dataCompra, @categoriaId)";
 
             var parametros = CriaParametros(j);

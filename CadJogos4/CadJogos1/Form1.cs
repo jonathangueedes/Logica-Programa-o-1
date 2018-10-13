@@ -24,7 +24,7 @@ namespace CadJogos1
             try
             {
                 JogoVO j = new JogoVO();
-                j.Id = Convert.ToInt32(txtId.Text);
+                //j.Id = Convert.ToInt32(txtId.Text);
                 j.Descricao = txtDescricao.Text;
                 j.valor = Convert.ToDouble(txtPreco.Text);
                 j.CategoriaId = Convert.ToInt32(cbcategorias.SelectedValue);
